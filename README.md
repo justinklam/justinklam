@@ -2,10 +2,10 @@
 Hello World 😄
 
 ### Stats
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonights)]
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonight)]
 
 ### Favourite Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonights)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonight)]
 
 
 
