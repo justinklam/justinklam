@@ -2,10 +2,10 @@
 Hello World 😄
 
 ### Stats
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=synthwave)]
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonights)]
 
 ### Favourite Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=synthwave)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonights)]
 
 
 
