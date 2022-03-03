@@ -2,10 +2,10 @@
 Hello World 😄
 
 ### Stats
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=merko)]
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=gruvbox)]
 
 ### Favourite Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&theme=merko)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&theme=gruvbox)]
 
 
 
