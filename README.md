@@ -3,7 +3,7 @@
 ### Skills and Experience
 
 ### Stats
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam)]
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonight)]
 
 
 <!--
