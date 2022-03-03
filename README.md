@@ -1,4 +1,10 @@
-### Hi there 👋
+### Justin Lam
+
+### Skills and Experience
+
+### Stats
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam)]
+
 
 <!--
 **justinklam/justinklam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
