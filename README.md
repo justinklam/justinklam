@@ -1,6 +1,9 @@
 ### Justin Lam
-Hello World 😄.
+Hello World 👋!
 I'm a full-stack developer from Toronto.
+
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
+
 
 ### Stats
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonight)
