@@ -2,7 +2,7 @@
 Hello World 👋!
 I'm a full-stack developer from Toronto.
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
+[![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
 
 
 ### Stats
