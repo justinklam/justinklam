@@ -1,5 +1,6 @@
 ### Justin Lam
-Hello World 😄
+Hello World 😄.
+I'm a full-stack developer from Toronto.
 
 ### Stats
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonight)
