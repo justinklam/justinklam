@@ -1,7 +1,7 @@
 ### Justin Lam
 Hello World 👋!
 
-I'm a full-stack developer from Toronto. I recently graduated from Lighthouse Labs's web development program. Click on the badge to connect with me on LinkedIn or through my <a href="https://justinklam.netlify.app/" style={{color: "blue"}}>Portfolio/a>!
+I'm a full-stack developer from Toronto. I recently graduated from Lighthouse Labs's web development program. Click on the badge to connect with me on LinkedIn!
 
 [![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
 
