@@ -5,6 +5,9 @@ I'm a full-stack developer from Toronto. I recently graduated from Lighthouse La
 
 [![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
 
+* Find my portfolio [here!](https://justinklam.netlify.app/)
+
+
 
 ### Stats
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonight)
