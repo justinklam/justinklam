@@ -10,8 +10,16 @@ You can find my work and Portfolio [Here](https://portfolio-justinklam.vercel.ap
 
 
 ### Stats
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonight)
+<a href="https://github.com/justinklam/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonight" />
+</a>
+<a href="https://github.com/justinklam/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonight" />
+</a>
+
+
+<!-- ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonight) -->
 
 
 
