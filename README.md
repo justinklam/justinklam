@@ -10,13 +10,14 @@ You can find my work and Portfolio [Here](https://portfolio-justinklam.vercel.ap
 
 
 ### Stats
-<a href="https://github.com/justinklam/">
-  <img align="center" src="https://github-readme-stats-pc.vercel.app/api?username=justinklam&theme=tokyonight" />
-</a>
-<a href="https://github.com/justinklam/">
-  <img align="center" src="https://github-readme-stats-pc.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonight" />
-</a>
-
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/justinklam/">
+    <img align="center" src="https://github-readme-stats-pc.vercel.app/api?username=justinklam&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/justinklam/">
+    <img align="center" src="https://github-readme-stats-pc.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonight" />
+  </a>
+</div>
 
 
 <!--
