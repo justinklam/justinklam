@@ -18,8 +18,8 @@ You can find my work and Portfolio [Here](https://portfolio-justinklam.vercel.ap
 </a>
 
 
-<!-- ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinklam&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonight) -->
+<!-- ![Justin's GitHub stats](https://github-readme-stats-vercel-eta.vercel.app/api?username=justinklam&theme=tokyonight)
+![Top Langs](https://github-readme-stats-vercel-eta.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonight) -->
 
 
 
