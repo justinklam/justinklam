@@ -1,5 +1,8 @@
-### Justin Lam
-Hello World 👋!
+<p style="align: center; color: white; font-size: 200%; ">
+<img src="./img/banner.png"><img/>
+</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World+👋!" alt="Typing SVG" /></a>
 
 I'm a full-stack developer from Toronto. I recently graduated from Lighthouse Labs's web development program. Click on the badge to connect with me on LinkedIn!
 
@@ -7,9 +10,8 @@ I'm a full-stack developer from Toronto. I recently graduated from Lighthouse La
 
 You can find my work and Portfolio [Here](https://portfolio-justinklam.vercel.app/)!
 
-
-
 ### Stats
+
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/justinklam/">
     <img align="center" src="https://github-readme-stats-pc.vercel.app/api?username=justinklam&theme=tokyonight" />
@@ -18,7 +20,6 @@ You can find my work and Portfolio [Here](https://portfolio-justinklam.vercel.ap
     <img align="center" src="https://github-readme-stats-pc.vercel.app/api/top-langs/?username=justinklam&layout=compact&theme=tokyonight" />
   </a>
 </div>
-
 
 <!--
 **justinklam/justinklam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
