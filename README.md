@@ -1,10 +1,10 @@
 <p style="align: center; color: white; font-size: 200%; ">
-<img src="./img/banner.png"><img/>
+<img src="https://user-images.githubusercontent.com/85145076/212754677-02a9d471-7daf-4286-8da9-6b85caf7f7dc.png"><img/>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World+👋!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+👋!+My+Name+is+Justin!" alt="Typing SVG" /></a>
 
-I'm a full-stack developer from Toronto. I recently graduated from Lighthouse Labs's web development program. Click on the badge to connect with me on LinkedIn!
+I'm a full-stack developer from Toronto. I recently graduated from Lighthouse Labs's web development program. Click on the badge to connect with me on LinkedIn.
 
 [![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
 
