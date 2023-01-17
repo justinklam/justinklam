@@ -6,7 +6,11 @@
 
 <hr>
 
-I'm a full-stack developer from Toronto. I recently graduated from Lighthouse Labs's web development program. Click on the badge to connect with me on LinkedIn!
+<p>I'm a full-stack developer from Toronto. I graduated from Lighthouse Labs's web development program.</p>
+<p>Coding has been my new passion but prior to that, I come from a background in B2B service and Quality Assurance roles.</p>
+<p>Outside of coding, you can find me climbing or playing Hades!</p>
+
+<p>I'm always down for a chat. Click on the badge to connect with me on LinkedIn!</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
 
