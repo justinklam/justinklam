@@ -6,9 +6,8 @@
 
 <hr>
 
-<p>I'm a full-stack developer from Toronto. I graduated from Lighthouse Labs's web development program.</p>
-<p>Coding has been my new passion but prior to that, I come from a background in B2B service and Quality Assurance roles.</p>
-<p>Outside of coding, you can find me climbing or playing Hades!</p>
+<p>I'm a full-stack developer from Toronto. I graduated from Lighthouse Labs's web development program. Coding has been my new passion but prior to that, I come from a background in B2B service and Quality Assurance roles.</p>
+<p>Outside of coding, you can find me climbing, having a boardgame night or playing Hades!</p>
 
 <p>I'm always down for a chat. Click on the badge to connect with me on LinkedIn!</p>
 
