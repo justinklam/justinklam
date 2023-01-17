@@ -4,12 +4,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+👋!+My+Name+is+Justin!" alt="Typing SVG" /></a>
 
+<hr>
+
 I'm a full-stack developer from Toronto. I recently graduated from Lighthouse Labs's web development program. Click on the badge to connect with me on LinkedIn!
 
 [![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
 
 You can find my work and Portfolio [Here](https://portfolio-justinklam.vercel.app/)!
 
+<hr>
 
 
 ### Stats
