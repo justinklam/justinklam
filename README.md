@@ -13,7 +13,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
 
-You can find my work and Portfolio [Here](https://portfolio-justinklam.vercel.app/)!
+You can find my work and Portfolio [Here](https://www.justinklam.com/)!
 
 <hr>
 
