@@ -13,8 +13,6 @@
 
 <p>I'm always down for a chat. Click on the badge to connect with me on LinkedIn!</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
-
 <hr>
 
 
