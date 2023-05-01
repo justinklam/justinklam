@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+👋!+My+Name+is+Justin!" alt="Typing SVG" /></a>
 
+[![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam) You can find my work and Portfolio [Here](https://www.justinklam.com/)!
+
 <hr>
 
 <p>I'm a full-stack developer from Toronto. I graduated from Lighthouse Labs's web development program. Coding has been my new passion but prior to that, I come from a background in Sales, B2B service and Quality Assurance roles.</p>
@@ -12,8 +14,6 @@
 <p>I'm always down for a chat. Click on the badge to connect with me on LinkedIn!</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jklam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinkhlam/)](https://www.linkedin.com/in/justinkhlam)
-
-You can find my work and Portfolio [Here](https://www.justinklam.com/)!
 
 <hr>
 
