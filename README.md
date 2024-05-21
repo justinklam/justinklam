@@ -32,31 +32,36 @@
   <tr>
     <td width="50%" valign="top">
       <h3>getFit</h3>
-      <div style="height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-        <img src="https://user-images.githubusercontent.com/85145076/221393343-16cbf857-1d6c-4bfd-a520-fa4a16fb0811.png" style="height: 200px; width: auto; object-fit: contain;">
+      <div style="height: 200px; width: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+      <a href="https://github.com/justinklam/getFit" target="_blank">
+        <img src="https://user-images.githubusercontent.com/85145076/221393343-16cbf857-1d6c-4bfd-a520-fa4a16fb0811.png" style="max-height: 200px; max-width: 100%; object-fit: contain;">
+      </a>
       </div>
       <p>
         <a href="https://github.com/justinklam/getFit" target="_blank">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-        </a>  
+        </a>
         <a href="https://getfit.pages.dev/" target="_blank">
           <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
-        </a>  
+        </a>
       </p>
-      <p><strong>TypeScript, React, TailwindCSS, Vite</strong></p><p> A SPA showcasing responsive design and animations. Work in Progress.</p>
+      <p><strong>TypeScript, React, TailwindCSS, Vite</strong> – A SPA showcasing responsive design and animations. Work in Progress.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Recipe Repo</h3>
-      <div style="height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-        <img src="https://raw.githubusercontent.com/justinklam/recipe-repo/master/public/img/screenshots/main.png" style="height: 200px; width: auto; object-fit: contain;">
+      <div style="height: 200px; width: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+        <a href="https://github.com/justinklam/recipe-repo" target="_blank">
+          <img src="https://raw.githubusercontent.com/justinklam/recipe-repo/master/public/img/screenshots/main.png" style="max-height: 200px; max-width: 100%; object-fit: contain;">
+        </a>
       </div>
       <p>
         <a href="https://github.com/justinklam/recipe-repo" target="_blank">
           <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-        </a>  
+        </a>
       </p>
-      <p><strong>JavaScript, Express, NodeJS, Bootstrap, EJS, MongoDB</strong> </p><p>Recipe Repo is a recipe blog for users to post up their recipes</p>
+      <p><strong>JavaScript, Express, NodeJS, Bootstrap, EJS, MongoDB</strong> – Recipe Repo is a recipe blog for users to post up their recipes</p>
     </td>
+
   </tr>
 </table>
 </section>
